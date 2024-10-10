@@ -1,0 +1,11 @@
+body {
+    background-color: #0e18e2;
+    color: #fff;
+    margin: 0;
+}
+
+#cubito {
+    width: 80px;
+    height:80px;
+    background-color: red;
+}
